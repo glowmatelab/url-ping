@@ -1,4 +1,4 @@
-name = "picoo-pinger"
+name = "urlping"
 main = "index.js"
 compatibility_date = "2024-04-25"
 
